@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #e04f4f !important;
+    transition: 0.3s all;
+}
+
+
+/* our mission section start */
+.fw-semibold {
+    font-weight: 600!important;
+}
+.fs-5 {
+    font-size: 1.25rem!important;
+}
+p {
+    text-align: justify;
+}
+.our{
+    box-shadow: 0px 0px 10px 2px rgb(225, 222, 222);
+    border-radius: 10px;
+}
+/* our mission section end */
+
+label{
+    font-weight: bold;
+}
+
+/* banner section start */
+.inner-banner {
+    background-image: url(../img/background.jpg);
+    height: 270px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+/* banner section end */
+
+ 
+/* footer section start */ 
+.rrr li:hover{
+    color: #e04f4f;
+}
+/* footer section end */
+
+
+   
+   
+ 
